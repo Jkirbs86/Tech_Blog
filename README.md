@@ -12,9 +12,10 @@
   * [Questions](#questions)
   
   ## Installation 
-  npm i to download dependencies. type node seeds/seeds.js to seed the database. then run node server.js.
-  ## Usage 
-  c:/Users/dropi/Downloads/Screenshot 2022-11-26 at 18-43-29 Tech Blog.png
+  npm i to download dependencies. type node seeds/seeds.js to seed the database. then run npm start. then open your local server.
+  ## Usage ![Screenshot 2022-11-26 at 18-43-29 Tech Blog](https://user-images.githubusercontent.com/51921860/204115742-96938d00-13bb-4148-b84e-d01ad2e9023a.png)
+
+https://tech-blog-note.herokuapp.com/ (heroku wouldn't work)
   ## License 
   This project is license under None
   ## Contributing 
